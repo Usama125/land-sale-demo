@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn-purchase { 
+  margin-right: -30px;
+    padding: 7px 15px;
+    color: rgb(255, 255, 255);
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    padding: 10px 15px;
+    background: linear-gradient(to right, rgb(251, 1, 49), rgb(139, 30, 200));
+}
+
+.pure-modal {
+  width: 400px !important;
+}
+
+.btn-cancel { 
+  margin-right: -30px;
+    padding: 10px 15px;
+}
